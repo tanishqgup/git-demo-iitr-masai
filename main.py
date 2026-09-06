@@ -2,4 +2,5 @@
 
 a = 'Tanshq'
 b = 'Gupta'
-c = "new variable"
+
+c = "Satyam"
